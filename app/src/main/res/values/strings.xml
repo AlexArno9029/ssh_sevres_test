@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ssh_sevres</string>
+    <string name="IPtext">IP</string>
+    <string name="Porttext">Port</string>
+    <string name="IDtext">ID</string>
+    <string name="PWtext">PW</string>
+    <string name="butten">connection</string>
+    <string name="IPtextbar">127.0.0.1</string>
+    <string name="Porttextbar">22</string>
+    <string name="IDtextbar">Host@127.0.0.1</string>
+    <string name="Title">Remote Server Connection</string>
+</resources>
